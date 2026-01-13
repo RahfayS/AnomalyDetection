@@ -6,3 +6,5 @@ matplotlib
 Pillow
 scikit-learn
 huggingface_hub
+seaborn
+plotly
