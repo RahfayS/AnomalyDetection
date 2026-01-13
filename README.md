@@ -183,3 +183,7 @@ Inspired by research on unsupervised anomaly detection using autoencoders and VA
 ### Dataset
 
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training
+
+## How It works
+
+![Demo](test_video/demo.gif)
