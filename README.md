@@ -186,4 +186,6 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=
 
 ## How It works
 
-![Demo](test_video/demo.gif)
+<video src="test_video/demo_readme.mp4"
+       controls autoplay loop muted
+       width="700"></video>
