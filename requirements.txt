@@ -5,3 +5,4 @@ numpy
 matplotlib
 Pillow
 scikit-learn
+huggingface_hub
