@@ -192,4 +192,4 @@ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=
 
 ### Link To Streamlit App
 
-[text](https://anomalydetection-myaerd8g4bmcnvgmwrvjjx.streamlit.app/)
+[Check it out on streamlit](https://anomalydetection-myaerd8g4bmcnvgmwrvjjx.streamlit.app/)
